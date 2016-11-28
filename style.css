@@ -1,0 +1,163 @@
+.col-md-12 {
+    padding: 0 !important;
+}
+.white {
+    color: #fff;
+    font-weight: Bold;
+}
+.lightgrey {
+	color: lightgrey;
+}
+.center {
+    text-align: center;
+}
+.background-grey {
+    background: lightgrey;
+    padding: 50px !important;
+}
+.padding-top {
+	padding-top: 20px !important;
+}
+.padding-top-15 {
+	padding-top: 15px !important;
+}
+.margin-min-top {
+	margin-top: -20px;
+}
+.bold {
+	font-weight: bold;
+	color: #ff6666;
+}
+
+.logo {
+    background: #fff;
+    height: 80px;
+    -webkit-box-shadow: 0px 3px 7px 3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 3px 7px 3px rgba(0,0,0,0.75);
+	box-shadow: 0px 3px 7px 3px rgba(0,0,0,0.75);
+    text-align: center;
+}
+.logo img {
+	height: 83px;
+    width: 76%;
+}
+
+.front {
+    z-index: 1;
+}
+.header {
+    height: 70px;
+}
+.img-5sos {
+    height: 500px;
+}
+.social-media-next {
+    display: inline-block;
+}
+.social-media {
+    border-radius: 50px;
+    border: 2px solid lightgrey;
+    width: 30px;
+    height: 30px;
+}
+.fa {
+    padding: 7px;
+    color: grey;
+    display: inline-block;
+}
+.fa-phone-square {
+    color: #fff;
+}
+.padding10 {
+    padding: 10px;
+}
+.img-text {
+    position: absolute;
+    bottom: 0;
+    background: lightgrey;
+    opacity: 0.95;
+}
+h1 {
+    color: #fff;
+}
+.text-box {
+    bottom: 0;
+    height: 280px;
+    background: #fff;
+    position: absolute;
+    z-index: 10;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-bottom: -50px;
+}
+.text-box-2 {
+    height: 90px;
+    background: #ff6666;
+    width: 100%;
+    padding: none;
+}
+
+nav {
+    background: black;
+    height: 50px;
+}
+nav div {
+    margin: 15px;
+}
+nav div a {
+    color: #fff;
+}
+
+.squares-middle {
+    height: 150px;
+    background: black;
+    opacity: 0.4;
+    margin-top: 20px;
+}
+.squares-middle-img {
+    height: 150px;
+}
+
+.under-squares-middle {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text-date-title {
+    margin-bottom: 20px;
+}
+.text-date {
+    border-right: 1px solid #ff6666;
+    height: 150px;
+}
+.text-date-text {
+    background: #ff6666;
+    height: 150px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.text-img {
+    width: 100%;
+}
+
+.avatar {
+    height: 50px;
+    width: 100%;
+}
+.avatar-name {
+    padding-top: 5px;
+}
+.avatar-text {
+    padding-top: 60px;
+}
+
+
+
+
+.box-under-nav {
+	height: 40px;
+	background: #ff6666;
+	color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
